@@ -1,1 +1,1 @@
-# simpeg-mobile
+# Sistem Informasi Kepegawaian - Mobile Version
